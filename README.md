@@ -28,6 +28,7 @@ alerts to a centralserver or user devices.
 module.
 
 Working Principle:
+
 1. Leak Detection: The microcontroller analyzes the gas level data and
 triggers an alert if the gas concentration exceeds a predetermined
 threshold, indicating a potential leak.
@@ -82,6 +83,7 @@ Step 5: Monitor and Maintain
 • Replace the GSM SIM module if necessary.
 
 ADVANTAGES:
+
 Safety Improvement: Early detection of leaks or other issues can prevent accidents and enhance overall safety.
 Automatic shut-off systems can be implemented to stop gas flow in case of a leak, minimizing potential hazards.
 
@@ -96,6 +98,7 @@ Remote Monitoring: Advanced notification systems may allow for remote monitoring
 Environmental Impact: Proper maintenance can contribute to reducing the environmental impact by preventing leaks and minimizing emissions.
 
 DISADVANTAGES:
+
 Cost of Implementation: Installing and maintaining notification systems can be expensive, especially for small businesses or residential users.
 
 False Alarms: Overly sensitive systems may trigger false alarms, leading to unnecessary evacuations or disruptions.
@@ -109,6 +112,7 @@ Maintenance Costs: While maintenance can prevent major issues, it also comes wit
 Limited Applicability: In some cases, the benefits of advanced notification systems may not justify the costs, especially in smaller or less critical installations.
 
 LIMITATION:
+
 Technology Dependence: Many notification systems are reliant on technology, such as sensors and communication networks. Dependence on these technologies can introduce vulnerabilities, especially in areas with inconsistent power or limited network coverage.
 
 Initial Cost: The installation of advanced maintenance and notification systems can be expensive, making it a less feasible option for smaller businesses or residential users with limited budgets.
